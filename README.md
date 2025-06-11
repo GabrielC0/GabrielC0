@@ -9,8 +9,8 @@
 ### 🧠 À propos
 
 💼 Dev front-end chez **3V Finance**  
-🚀 Fondatrice de [**Stackly**](https://stacklyweb.com)  
-🎯 Spécialiste React / TypeScript / Tailwind  
+🚀 Fondateur de [**Stackly**](https://stacklyweb.com)  
+🎯 Spécialiste React / TypeScript / SCSS  
 🧠 Fan de clean architecture & design system  
 💫 Je construis des interfaces modernes, scalables & animées
 
