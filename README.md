@@ -34,12 +34,14 @@
 
 ---
 
-### 📊 GitHub Stats (avec contributions privées)
+### 📊 GitHub Stats (commits privés inclus)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielC0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielC0&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://gaby-github-stats-gl6ltwiha-gabys-projects-ef33f8e1.vercel.app/api?username=GabrielC0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://gaby-github-stats-gl6ltwiha-gabys-projects-ef33f8e1.vercel.app/api/top-langs/?username=GabrielC0&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </div>
+
+> 📝 *Statistiques basées sur les contributions publiques + privées (total réel)*
 
 ---
 
@@ -48,12 +50,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielC0&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
-
----
-
-### 🐍 Snake des contributions (auto-généré)
-
-> ⚙️ Si ce fichier n'apparaît pas, ajoute le GitHub Action plus bas ↓
-
-```md
-![snake gif](https://github.com/GabrielC0/GabrielC0/blob/output/github-contribution-grid-snake.svg)
