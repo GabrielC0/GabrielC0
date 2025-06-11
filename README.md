@@ -37,16 +37,24 @@
 ### 📊 GitHub Stats (commits privés inclus)
 
 <div align="center">
-  <img src="https://gaby-github-stats-gl6ltwiha-gabys-projects-ef33f8e1.vercel.app/api?username=GabrielC0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://gaby-github-stats-gl6ltwiha-gabys-projects-ef33f8e1.vercel.app/api/top-langs/?username=GabrielC0&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://gaby-stats-n0fo1fejy-gabys-projects-ef33f8e1.vercel.app/api?username=GabrielC0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://gaby-stats-n0fo1fejy-gabys-projects-ef33f8e1.vercel.app/api/top-langs/?username=GabrielC0&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
 </div>
 
-> 📝 *Statistiques basées sur les contributions publiques + privées (total réel)*
+> 📝 *Statistiques réelles incluant les contributions privées (token GitHub sécurisé via Vercel)*
 
 ---
 
-### 🏆 Trophées GitHub
+### 💡 En ce moment...
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielC0&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
+- Refactoring de composants modulaires 🧩  
+- UI animées avec Framer Motion 🎞  
+- Design system front-end by Stackly ✨  
+- Clean architecture & code scalable ⚙️
+
+---
+
+🔥 T'as maintenant un profil GitHub **moderne, stylé et à ton image**.  
+Si tu veux, je peux aussi générer une bannière Figma ou intégrer une section projets plus tard 💻👩‍🎨
+
+Let me know si tu veux un `.zip`, un backup, ou juste profiter du résultat 😎
