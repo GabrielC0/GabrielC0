@@ -9,10 +9,10 @@
 ### 🧠 À propos
 
 💼 Dev front-end chez **3V Finance**  
-🚀 Fondatrice de [**Stackly**](https://stacklyweb.com), mon auto-entreprise  
+🚀 Fondatrice de [**Stackly**](https://stacklyweb.com)  
 🎯 Spécialiste React / TypeScript / Tailwind  
 🧠 Fan de clean architecture & design system  
-💫 J’aime construire des expériences web fluides, modernes et modulaires
+💫 Je construis des interfaces modernes, scalables & animées
 
 ---
 
@@ -34,16 +34,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (avec contributions privées)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielC0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielC0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielC0&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 </div>
 
 ---
 
-### 🏆 Trophées de contributions
+### 🏆 Trophées GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielC0&theme=darkhub&no-frame=true&row=1&column=7" />
@@ -51,9 +51,9 @@
 
 ---
 
-### 🐍 Snake animation (optionnel)
+### 🐍 Snake des contributions (auto-généré)
 
-> Si tu veux que je le setup avec GitHub Actions, dis-le !
+> ⚙️ Si ce fichier n'apparaît pas, ajoute le GitHub Action plus bas ↓
 
 ```md
 ![snake gif](https://github.com/GabrielC0/GabrielC0/blob/output/github-contribution-grid-snake.svg)
