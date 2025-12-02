@@ -1,17 +1,18 @@
 <h1 align="center">Hey, moi c’est Gaby 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Dev+Front-End+chez+3V+Finance;Fondateur+de+Stackly;React+%2B+TypeScript+Lover;UI+modulaire+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Developer+–+Internal+Tools+%26+IT+Automation;Master+Developpeur+Manager+FullStack;React+%2B+TypeScript+Lover;UI+modulaire+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 À propos
 
-💼 Dev front-end chez **3V Finance**  
+💼 **Developer – Internal Tools & IT Automation**  
+🏆 **Master Développeur Manager FullStack**  
 🚀 Fondateur de [**Stackly**](https://stacklyweb.com)  
-🎯 Spécialiste React / TypeScript / SCSS  
-🧠 Fan de clean architecture & design system  
+🎯 Expert React / TypeScript / SCSS  
+⚙️ Créateur d’outils internes, automatisations IT & solutions sur mesure  
 💫 Je construis des interfaces modernes, scalables & animées
 
 ---
@@ -20,10 +21,13 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Scripting](https://img.shields.io/badge/Scripting-Python%2FPowerShell-3670A0?style=for-the-badge)
 
 ---
 
