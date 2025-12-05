@@ -1,9 +1,4 @@
 <h1 align="center">Hey, moi c’est Gaby 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Developer+–+Internal+Tools+%26+IT+Automation;Master+Developpeur+Manager+FullStack;React+%2B+TypeScript+Lover;UI+modulaire+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 À propos
