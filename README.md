@@ -36,6 +36,5 @@
 ### 📊 GitHub Stats (commits privés inclus)
 
 <div align="center">
-  <img src="https://gaby-stats.vercel.app/api?username=GabrielC0&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
   <img src="https://gaby-stats.vercel.app/api/top-langs/?username=GabrielC0&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
 </div>
