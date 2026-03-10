@@ -30,11 +30,3 @@
 
 [![Stackly](https://img.shields.io/badge/🌐-stacklyweb.com-000000?style=for-the-badge)](https://stacklyweb.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielc0)
-
----
-
-### 📊 GitHub Stats (commits privés inclus)
-
-<div align="center">
-  <img src="https://gaby-stats.vercel.app/api/top-langs/?username=GabrielC0&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" width="48%" />
-</div>
